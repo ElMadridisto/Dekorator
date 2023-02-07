@@ -1,0 +1,10 @@
+2023-02-07 22:48:46.121593
+get_resume
+('https://spb.hh.ru/vacancy/76696915?from=vacancy_search_list&query=python',), {}
+{'url': 'https://spb.hh.ru/vacancy/76696915?from=vacancy_search_list&query=python', 'salary': 'з/п не указана', 'name': 'Python developer', 'city': 'Москва'}2023-02-07 22:48:48.110762
+get_resume
+('https://spb.hh.ru/vacancy/70899389?from=vacancy_search_list&query=python',), {}
+{'url': 'https://spb.hh.ru/vacancy/70899389?from=vacancy_search_list&query=python', 'salary': 'з/п не указана', 'name': 'Python-разработчик', 'city': 'Москва, Дмитровская, Большая Новодмитровская улица, 23с5'}2023-02-07 22:48:54.543120
+get_resume
+('https://spb.hh.ru/vacancy/42615019?from=vacancy_search_list&query=python',), {}
+{'url': 'https://spb.hh.ru/vacancy/42615019?from=vacancy_search_list&query=python', 'salary': 'до 350\xa0000 руб. на руки', 'name': 'Senior Python Developer (в аккредитованную ИТ компанию)', 'city': 'Москва, Мякинино, Павшино, Строгино, Щукинская, улица Маршала Прошлякова, 30'}
